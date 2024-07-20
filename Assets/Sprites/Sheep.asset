@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Sheep
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -231298078, guid: 887e1f08d33de4047a4f8665da913cf1, type: 3}
+  - {fileID: 1805010716, guid: 887e1f08d33de4047a4f8665da913cf1, type: 3}
+  - {fileID: -2146869740, guid: 887e1f08d33de4047a4f8665da913cf1, type: 3}
+  - {fileID: -1667676813, guid: 887e1f08d33de4047a4f8665da913cf1, type: 3}
+  - {fileID: 594425004, guid: 887e1f08d33de4047a4f8665da913cf1, type: 3}
+  - {fileID: -1932100155, guid: 887e1f08d33de4047a4f8665da913cf1, type: 3}
+  - {fileID: 7572530, guid: 887e1f08d33de4047a4f8665da913cf1, type: 3}
+  - {fileID: 60716411, guid: 887e1f08d33de4047a4f8665da913cf1, type: 3}
+  m_MinSpeed: 9
+  m_MaxSpeed: 9
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
